@@ -1,0 +1,13 @@
+[
+  {
+    "identificador": "7094e0ac-a016-4503-a736-a2aea6d341d7",
+    "dataHora": "2026-10-05T09:51:14-03:00",
+    "codigoProduto": 104,
+    "produto": "Lápis Preto HB",
+    "tipo": "entrada",
+    "descricao": "caneta Bic",
+    "quantidade": 20,
+    "estoqueAnterior": 320,
+    "estoqueFinal": 340
+  }
+]

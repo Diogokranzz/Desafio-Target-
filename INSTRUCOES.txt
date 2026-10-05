@@ -1,0 +1,67 @@
+INSTRUÇÔES DE EXECUÇÂO
+======================
+
+REQUISITO
+---------
+
+Python 3.10 ou superior.
+
+DESAFIO 1 - COMISSOES
+---------------------
+
+Entre na pasta:
+
+    cd "D:\Testes Desafios\Desafio 1"
+
+Execute:
+
+    python .\desafio_1_comissoes.py
+
+Alternativa, caso o comando `python` nao funcione:
+
+    py .\desafio_1_comissoes.py
+
+Para voltar a pasta principal:
+
+    cd ..
+
+DESAFIO 2 - ESTOQUE
+-------------------
+
+Entre na pasta:
+
+    cd "D:\Testes Desafios\Desafio 2"
+
+Execute:
+
+    python .\desafio_2_estoque.py
+
+Alternativa:
+
+    py .\desafio_2_estoque.py
+
+Durante a execucao, informe os dados solicitados pelo programa.
+
+DESAFIO 3 - JUROS
+-----------------
+
+Entre na pasta:
+
+    cd "D:\Testes Desafios\Desafio 3"
+
+Execute:
+
+    python .\desafio_3_juros.py
+
+Alternativa:
+
+    py .\desafio_3_juros.py
+
+OBSERVAÇÔES
+-----------
+
+- As aspas sao obrigatorias nos caminhos que possuem espacos, como `Desafio 1`.
+- O comando `cd ..` volta uma pasta.
+- O comando `Get-Location` mostra a pasta atual.
+- O comando `Get-ChildItem` lista os arquivos da pasta atual.
+- Para interromper um programa, pressione `Ctrl+C`.
